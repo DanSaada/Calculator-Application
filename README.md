@@ -1,4 +1,5 @@
 # Calculator-Application
+
 A project for a full stack development program training.
 
 https://dansaada.github.io/Calculator-Application/
